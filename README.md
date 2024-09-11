@@ -59,11 +59,11 @@ A decentralized finance app designed to optimize investments using **Farcaster f
 [GitHub Repo](https://github.com/sgr-0007/-1_eth_oxford)
 
 ### 📊 RDF Fractures
-An analytical tool built to process **RDF (Resource Description Framework)** data structures for predicting fractures in materials.  
+An analytical tool built to process **RDF (Resource Description Framework)** data structures for recoding and querying fractures data in suspected child abuse.  
 [GitHub Repo](https://github.com/sgr-0007/Rdf-fractures)
 
 ### 🗣️ MyLanguageModel
-A custom-built **language model** aimed at exploring NLP capabilities for generating text and performing various language-based tasks.  
+A custom-built **language model** aimed at exploring Morkov model for generating text and performing various language-based tasks.  
 [GitHub Repo](https://github.com/sgr-0007/MyLanguageModel)
 
 ### 🔢 PER Processor
