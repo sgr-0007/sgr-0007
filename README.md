@@ -98,7 +98,6 @@ An innovative protocol developed for **securing agricultural supply chains** wit
 **Technologies:** ASP.NET Web Forms, Tortoise SVN, MSSQL  
 - Assisted in the development of internal tools using **ASP.NET Web Forms**.
 - Collaborated in database design and integration efforts with **MSSQL** to ensure consistent data flow.
-- Worked on version control using **Tortoise SVN** for source code management.
 
 ### **Trainee Java Developer**  
 **EXCEL Business Solutions** (Dec 2018 - Mar 2019) · 4 mos · Bengaluru, Karnataka, India · On-site  
