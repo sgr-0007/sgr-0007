@@ -4,7 +4,7 @@
 🎓 I recently completed my **Master of Science in Advanced Computer Science** at the **University of Sheffield**. I am an experienced **Senior Software Developer** with over 4 years of experience, specializing in full-stack development, mobile applications, and cloud solutions. I love leveraging cutting-edge technologies to solve real-world challenges efficiently and at scale.
 
 🔗 **Links**  
-[GitHub](https://github.com/sgr-0007) • [LinkedIn](https://www.linkedin.com/in/sagar-somashekhar-965202150) • [Portfolio](https://myportfolio-gh2.pages.dev)
+[LinkedIn](https://www.linkedin.com/in/sagar-somashekhar-965202150) • [Portfolio](https://myportfolio-gh2.pages.dev)
 
 ---
 
