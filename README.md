@@ -22,7 +22,7 @@
 JavaScript, TypeScript, Java, C#, Kotlin, Python
 
 **Frontend Development:**  
-React, Angular, Next.js
+React, Angular, Next.js, Tailwind CSS, DaisyUI, Primereact, PrimeNg
 
 **Backend Development:**  
 Node.js (Express.js), Java Spring Boot, ASP.NET Core
