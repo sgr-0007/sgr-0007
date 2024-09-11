@@ -12,7 +12,7 @@
 
 - 🚀 With a strong background in **full-stack development**, I've successfully led and delivered projects for major clients like **Pfizer** and **Tobacco Board India**, transforming business processes.
 - 💼 I have a keen interest in **cloud computing** and **DevOps**, making deployment smoother and system integrations more reliable.
-- 🏆 Hackathon enthusiast and proud winner of the **Best Innovation Category at Eth Oxford Hackathon 2024**, where I developed a groundbreaking DeFi app.
+- 🏆 Hackathon enthusiast and proud winner of the **Best Innovation Category at Eth Oxford Hackathon 2024**, where a groundbreaking DeFi app was built.
 
 ---
 
