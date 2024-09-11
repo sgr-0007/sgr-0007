@@ -37,7 +37,7 @@ MSSQL, MySQL, MongoDB
 Azure, AWS, Docker, GitHub Actions CI/CD
 
 **Testing:**  
-Unit Testing with Jest
+Jest, Vitest, React Testing Library (RTL)
 
 ---
 
