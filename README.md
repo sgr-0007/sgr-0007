@@ -1,5 +1,5 @@
 
-# Hi there, I'm Sagar H S! 👋
+# Hi there, I'm Sagar! 👋
 
 🎓 I recently completed my **Master of Science in Advanced Computer Science** at the **University of Sheffield**. I am an experienced **Senior Software Developer** with over 5 years of experience, specializing in full-stack development and cloud solutions. I love leveraging cutting-edge technologies to solve real-world challenges efficiently and at scale.
 
