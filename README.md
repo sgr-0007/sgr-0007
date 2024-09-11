@@ -79,15 +79,32 @@ An innovative protocol developed for **securing agricultural supply chains** wit
 ## 💼 Professional Experience
 
 ### **Senior Software Developer**  
-**e2e Rosh IT Solutions India Private Limited** (Mar 2019 - Sept 2023)  
+**e2e Rosh IT Solutions India Private Limited** (May 2021 - Sep 2023) · 2 yrs 5 mos · Bengaluru, Karnataka, India · Hybrid  
+**Technologies:** Apache Tomcat, Angular, MSSQL, ASP.NET, Docker  
 - Spearheaded the development of a **Team Management System**, boosting task completion by 65%.
 - Built a **tracking system** achieving 95% accuracy in tool/material tracking.
 - Developed a **Workshop Management System** that reduced data entry errors by 35%.
-- Enhanced financial processes across **20 branches of Tobacco Board India** by 70%.
+- Led the migration of the codebase to the latest frameworks, reducing technical debt and enhancing system performance.
+
+### **Software Developer Engineer**  
+**Epiroc** (Nov 2019 - May 2021) · 1 yr 7 mos · Bengaluru, Karnataka, India · Hybrid  
+**Technologies:** React.js, JavaScript, MSSQL, Azure Service Bus, .NET Core  
+- Developed a real-time tool tracking system, achieving a 95% tracking accuracy rate.
+- Worked with **React.js** and **JavaScript** to enhance Epiroc's internal tools, improving efficiency by 20%.
+- Led a successful integration of **Azure Service Bus** for reliable data messaging across platforms.
+
+### **Junior Software Developer**  
+**e2e Rosh IT Solutions India Private Limited** (Mar 2019 - Nov 2019) · 9 mos · Bengaluru, Karnataka, India · On-site  
+**Technologies:** ASP.NET Web Forms, Tortoise SVN, MSSQL  
+- Assisted in the development of internal tools using **ASP.NET Web Forms**.
+- Collaborated in database design and integration efforts with **MSSQL** to ensure consistent data flow.
+- Worked on version control using **Tortoise SVN** for source code management.
 
 ### **Trainee Java Developer**  
-**Excel Business Solutions** (Dec 2018 - Mar 2019)  
-- Improved application stability by resolving 40% of critical bugs in **Spring MVC**.
+**EXCEL Business Solutions** (Dec 2018 - Mar 2019) · 4 mos · Bengaluru, Karnataka, India · On-site  
+**Technologies:** Spring MVC, Java Database Connectivity (JDBC)  
+- Collaborated with senior engineers to resolve 40% of critical business logic bugs in a **Spring MVC** application.
+- Improved data retrieval performance by 15% through **JDBC** query optimizations.
 
 ---
 
