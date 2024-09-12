@@ -82,7 +82,6 @@ An innovative protocol developed for **securing agricultural supply chains** wit
 **e2e Rosh IT Solutions India Private Limited** (May 2021 - Sep 2023) · 2 yrs 5 mos · Bengaluru, Karnataka, India · Hybrid  
 **Technologies:** Apache Tomcat, Angular, MSSQL, ASP.NET, Docker  
 - Spearheaded the development of a **Team Management System**, boosting task completion by 65%.
-- Built a **tracking system** achieving 95% accuracy in tool/material tracking.
 - Developed a **Workshop Management System** that reduced data entry errors by 35%.
 - Led the migration of the codebase to the latest frameworks, reducing technical debt and enhancing system performance.
 
