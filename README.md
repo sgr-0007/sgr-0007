@@ -124,6 +124,9 @@ An innovative protocol developed for **securing agricultural supply chains** wit
 
 ## 🏅 Accomplishments
 - **1st place** in the Best Innovation Category at **Eth Oxford Hackathon 2024** for developing a DeFi app, optimizing investment strategies using **Farcaster frames**.
+- **1st place** in Decentralized Memory Organ track at **Eth Oxford Hackathon 2025** for developing Build a decentralised memory organ that enables secure, high-availability storage 
+    and retrieval of data by agents on the Torus Network.
+
 
 ---
 
