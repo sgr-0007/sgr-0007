@@ -79,6 +79,14 @@ An innovative protocol developed for **securing agricultural supply chains** wit
 ## 💼 Professional Experience
 
 ### **Senior Software Developer**  
+**Epiroc** (Jan 2025 - Present) · Remote  
+**Technologies:** Azure,JQuery, MSSQL, ASP.NET, Docker  
+- Integrated and shipped Azure B2C within a .NET Razor Pages web application for secure authentication.
+- Resolved critical security vulnerabilities by upgrading libraries such as jquery-ui-dialog, jquery-ui, and jquery, mitigating risks like XSS (CVE-2016-7103, CVE-2020-11023, etc.).
+- Fixed SSL/TLS certificate and web application header misconfigurations, implementing Strict-Transport-Security, X-Content-Type-Options, and other headers to enhance security.
+  Improved application security posture through systematic dependency updates and proactive risk mitigation.
+
+### **Senior Software Developer**  
 **e2e Rosh IT Solutions India Private Limited** (May 2021 - Sep 2023) · 2 yrs 5 mos · Bengaluru, Karnataka, India · Hybrid  
 **Technologies:** Apache Tomcat, Angular, MSSQL, ASP.NET, Docker  
 - Spearheaded the development of a **Team Management System**, boosting task completion by 65%.
